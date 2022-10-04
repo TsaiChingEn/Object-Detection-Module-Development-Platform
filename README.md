@@ -1,4 +1,4 @@
-# Labeling Platform
+# Object Detection Module Development Platform
 
 ## Preface
 It is a website based labeling platform with yolo model training.  
